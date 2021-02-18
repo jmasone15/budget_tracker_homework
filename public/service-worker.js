@@ -1,5 +1,5 @@
-const CACHE_NAME = "staticCache-v1";
-const DATA_CACHE_NAME = "dataCache-v1";
+const CACHE_NAME = "staticCache-v2";
+const DATA_CACHE_NAME = "dataCache-v2";
 
 const FILES_TO_CACHE = [
     '/',
